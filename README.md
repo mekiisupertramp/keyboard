@@ -1,2 +1,3 @@
-# keyboard_firmware
-My custom keyboard's firmware
+# keyboard
+
+DIY keyboard project based on a STM32.
